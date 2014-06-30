@@ -1,0 +1,10 @@
+{
+  "name": "tabcomplete",
+  "description": "tabcomplete is a jquery autocomplete plugin",
+  "homepage": "https://github.com/arunhedcet/tabcomplete.git",
+  "author": "Arun T K",
+  "version": "0.0.1",
+  "git": "https://github.com/arunhedcet/tabcomplete.git",
+  "packages": { }
+}
+
